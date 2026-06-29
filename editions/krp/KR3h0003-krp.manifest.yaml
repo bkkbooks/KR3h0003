@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR3h0003/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3h0003/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續畫品
+  date: '2015-08-24 23:13:34.215469'
+  source:
+    repository: kanripo
+    path: KR3h0003
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0003_000-krp.yaml, hash: 'sha256:f18bd9aeb6d8a893fcde126b567d9c5eaa3b2dcd03c7fd0f255a54b0e9243e21'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0003_000-krp.markers.yaml, hash: 'sha256:0161ac62b333c35e39ced05f05039e1af14af9930c4070a01b7381034b967f81'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0003_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 1502
+  label: 續畫品并序
+  type: section
+  level: 1
+hash: sha256:8b5da79d353cbef47467961f7f98108c4bf614e3b45f644ffd182d3be1fb7e61
