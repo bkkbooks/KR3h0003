@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3h0003_000-WYG.yaml, hash: 'sha256:132bb6cc4f408fe9dd0892a7619520136f34fcb53ec91da20fa34e48b825ff17'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0003_000-WYG.markers.yaml, hash: 'sha256:dc845652f71ea281bc3ce38892faa9d54fa76472ea939909c08faf22f2f44146'}
+  - {seq: 0, role: markers, filename: assets/KR3h0003_000-WYG.markers.yaml, hash: 'sha256:fbf7e63263529222e413634a9ae37776b962c27ad674a0ed9ca57536348b95d6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -31,4 +31,4 @@ table_of_contents:
   label: 續畫品并序
   type: section
   level: 1
-hash: sha256:950fe910bd6d51752bc40e4dfe3d4feb46d6cfc3affe6127f5aafd78caeb1dd4
+hash: sha256:c583edfd75ee78049274bd5b4e54d7fa50399269735b717d71369b8b50c7439b

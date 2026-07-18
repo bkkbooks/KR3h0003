@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3h0003_000-krp.yaml, hash: 'sha256:f18bd9aeb6d8a893fcde126b567d9c5eaa3b2dcd03c7fd0f255a54b0e9243e21'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0003_000-krp.markers.yaml, hash: 'sha256:0161ac62b333c35e39ced05f05039e1af14af9930c4070a01b7381034b967f81'}
+  - {seq: 0, role: markers, filename: assets/KR3h0003_000-krp.markers.yaml, hash: 'sha256:cad8b7b6f11a9503ccaf806bc18d7e20d2b5424a69032fa5d20472fbd2e6dac8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -31,4 +31,4 @@ table_of_contents:
   label: 續畫品并序
   type: section
   level: 1
-hash: sha256:8b5da79d353cbef47467961f7f98108c4bf614e3b45f644ffd182d3be1fb7e61
+hash: sha256:13d2266b56422c23fa0434e1b701be956138f3e6e62d8ad443add1476fb14805
